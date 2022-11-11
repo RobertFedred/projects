@@ -1,0 +1,8 @@
+name: "Making Result Screen"
+stepId: step1
+stepBreakDown:
+  - text: "Make a layout for result"
+  - text: "Style the result screen"
+  - text: "Make two sections for user and computer score"
+  - text: "Style the score layouts"
+  - text: "Order must be same as in provided design"

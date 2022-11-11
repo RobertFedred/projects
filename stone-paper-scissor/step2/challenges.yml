@@ -1,0 +1,7 @@
+name: "Making the algorithm/logic for the game"
+stepId: step2
+stepBreakDown:
+  - text: "Give id to all the options/screens"
+  - text: "Make two sections for user and computer score"
+  - text: "Style the score layouts"
+  - text: "Order must be same as in provided design"

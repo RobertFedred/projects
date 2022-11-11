@@ -1,0 +1,6 @@
+name: "Displaying the Choices/Score"
+stepId: step3
+stepBreakDown:
+  - text: "Make the result function in script.js"
+  - text: "Write the functionality of the result screen"
+  - text: "Write the functionality of the score screen"

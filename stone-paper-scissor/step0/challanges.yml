@@ -1,0 +1,7 @@
+name: "Making Basic Structure"
+stepId: step0
+stepBreakDown:
+  - text: "change the background / you may skip this step"
+  - text: "Make options for user to select Stone, Paper, Scissor"
+  - text: "Make a layout for oprions"
+  - text: "Style the layouts"
